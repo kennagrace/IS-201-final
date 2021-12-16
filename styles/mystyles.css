@@ -1,0 +1,24 @@
+.par{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.color{
+    color: rgb(226, 176, 203);
+}
+.description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+}
